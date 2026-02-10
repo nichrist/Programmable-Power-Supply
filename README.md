@@ -8,7 +8,7 @@
 
 ## Features
 
-- Voltage and current regulation using DAC or PWM output
+- Linear Voltage and Current regulation using DAC or PWM output
 - Feedback monitoring via ADC channels
 - User interface with buttons, encoders, LEDs, or display
 - PC/host communication via UART/USB commands
