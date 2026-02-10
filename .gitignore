@@ -1,0 +1,17 @@
+# MPLAB X build output
+dist/
+build/
+*.o
+*.elf
+*.hex
+*.map
+*.d
+
+# MPLAB X IDE user files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db

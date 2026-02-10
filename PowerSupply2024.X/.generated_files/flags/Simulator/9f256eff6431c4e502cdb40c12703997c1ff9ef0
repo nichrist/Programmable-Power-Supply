@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -g -D__DEBUG -D__MPLAB_DEBUGGER_SIMULATOR=1  -mno-eds-warn  -omf=elf -DXPRJ_Simulator=$(CND_CONF)    $(COMPARISON_BUILD)  -std=gnu99 -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"D:\Documents\PICs\Projects\24FJ128GC006\Firmware\30PowerSupply\PowerSupply2024.X\mcc_generated_files\usb\usb_device.c
