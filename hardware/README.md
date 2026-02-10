@@ -93,15 +93,8 @@ The power supply is organized into three main blocks:
 
 ---
 
-## 📁 Repository Structure
-/CAD
-└── Altium schematics and PCB files
-/Firmware
-└── PIC24 source code
-/Docs
-└── Schematics, notes, and measurements
-README.md
-
+## 📁 Schematics and PCB
+[![Schematic Preview](hardware/schematic_preview.png)](hardware/schematic.pdf)
 
 ---
 
