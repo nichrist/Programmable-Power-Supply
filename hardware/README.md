@@ -94,7 +94,7 @@ The power supply is organized into three main blocks:
 ---
 
 ## 📁 Schematics and PCB
-[![Schematic Preview](hardware/SchPrev.png)](hardware/AltiumSchematics.pdf)
+[![Schematic Preview](SchPrev.png)](AltiumSchematics.pdf)
 
 ---
 
