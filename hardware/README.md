@@ -94,7 +94,7 @@ The power supply is organized into three main blocks:
 ---
 
 ## 📁 Schematics and PCB
-[![Schematic Preview](hardware/schematic_preview.png)](hardware/schematic.pdf)
+[![Schematic Preview](hardware/SchPrev.jpg)](hardware/.pdf)
 
 ---
 
