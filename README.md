@@ -52,6 +52,7 @@
        ┌───────────────────┼───────────────────┐
        │                   │                   │
        ▼                   ▼                   ▼
+  Set Voltage         Set Current          Check for over current                   
 
 **Description:**
 
